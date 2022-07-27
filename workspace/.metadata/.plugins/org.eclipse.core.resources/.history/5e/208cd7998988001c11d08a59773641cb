@@ -1,0 +1,16 @@
+package tekschoolexample;
+
+public class StringConcatinatiojava {
+
+	public static void main(String[] args) {
+		
+		String firstName = "Mohammad";
+		String lastName = "Shokriyan";
+		
+		System.out.println(firstName);
+		System.out.println(lastName);
+		
+
+	}
+
+}

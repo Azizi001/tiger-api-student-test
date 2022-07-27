@@ -1,0 +1,18 @@
+package tekschoolexample;
+
+public class homeworkrightnow {
+
+	public static void main(String[] args) {
+		
+
+    short myheight = 168;
+    
+    System.out.println(myheight);
+    
+    
+		
+		
+		
+	}
+
+}

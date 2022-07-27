@@ -1,0 +1,17 @@
+package tekschoolexample;
+
+public class homeworkrightnow {
+
+	public static void main(String[] args) {
+		
+    
+		int Height =70;
+		int base = 50;
+		
+		double area = (base*Height) / 2;
+		
+		System.out.println(area);
+		
+	}
+
+}

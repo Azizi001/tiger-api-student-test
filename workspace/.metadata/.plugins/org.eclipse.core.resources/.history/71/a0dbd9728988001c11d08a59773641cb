@@ -1,0 +1,10 @@
+package tekschoolexample;
+
+public class StringConcatinatiojava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

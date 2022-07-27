@@ -1,0 +1,19 @@
+package tekschoolexample;
+
+public class homeworkrightnow {
+
+	public static void main(String[] args) {
+		
+	         priceAndWeight   appleProduct  =  new priceAndweight();
+	         
+	         
+	         
+	         appleProduct.Price = 1.2;
+	         appleProduct.weight = 0.01F;
+	         
+	         System.out.prinln(appleProduct.price);
+	         
+       
+	}
+
+}
